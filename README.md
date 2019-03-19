@@ -1,2 +1,2 @@
 "# zxing-demo" 
-zxing��ά��ɨ�裬������demo
+zxing二维码扫描，爱课堂demo
